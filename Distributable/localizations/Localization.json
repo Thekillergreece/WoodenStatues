@@ -1,50 +1,66 @@
 {
     "GAMEPLAY_BearToy":{
         "English":"Bear toy",
+	    "Italian":"Statuetta di Orso",
 	},
 	"GAMEPLAY_BearToyDescription":{
         "English":"Very lazy animals but quite dangerous when provoked, can easily catch up to you too.",
+		"Italian":"Animali molto pigri ma abbastanza pericolosi se provocati, possono facilmente raggiungerti.",
     },
 	"GAMEPLAY_BearToyLarge":{
         "English":"Large bear toy",
+		"Italian":"Statua di Orso",
 	},
 	"GAMEPLAY_BearToyLargeDescription":{
         "English":"Very lazy animals but quite dangerous when provoked, can easily catch up to you too. While they look fat, they can outrun Usain Bolt.",
+		"Italian":"Animali molto pigri ma abbastanza pericolosi se provocati, possono facilmente raggiungerti. Sembrano grassi, ma possono superare Usain Bolt in una gara."
     },
 	"GAMEPLAY_StagToy":{
         "English":"Deer toy",
+		"Italian":"Statuetta di Cervo",
 	},
     "GAMEPLAY_StagToyDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes.",
+	    "Italian":"Animali pacifici. Certe volte troppo pacifici.",
     },
 	"GAMEPLAY_MooseToy":{
         "English":"Moose toy",
+		"Italian":"Statuetta di Alce",
 	},
     "GAMEPLAY_MooseToyDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans.",
+	    "Italian":"Come il cervo ma forte, più alto, più grasso e si difenderanno contro umani impazziti.",
     },
 	"GAMEPLAY_MooseToyLarge":{
         "English":"Large moose toy",
+		"Italian":"Statua di Alce",
 	},
     "GAMEPLAY_MooseToyLargeDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans. Their stomps are rather strong and they are the largest animals in the island.",
+	    "Italian":"Come il cervo ma forte, più alto, più grasso e si difenderanno contro umani impazziti. I loro colpi sono piuttosto forti e sono gli animali più grandi dell'isola.",
 	},	
 	"GAMEPLAY_WolfToy":{
         "English":"Wolf toy",
+		"Italian":"Statuetta di Lupo",
 	},
 	"GAMEPLAY_WolfToyDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats.",
+		"Italian":"Awoo bork bork. Sono da pertutto e non sono alla ricerca di accarezze.",
 	},
 	"GAMEPLAY_StagToyLarge":{
         "English":"Large deer toy",
+		"Italian":"Statua di Cervo",
 	},
     "GAMEPLAY_StagToyLargeDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes. They are about this big.",
+	    "Italian":"Animali pacifici. Certe volte troppo pacifici. Sono grandi così.",
     },
 	"GAMEPLAY_WolfToyLarge":{
         "English":"Large Wolf toy",
+		"Italian":"Statua di Lupo",
 	},
 	"GAMEPLAY_WolfToyLargeDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats. If only you could cuddle with them peacefully.",
+		"Italian":"Awoo bork bork. Sono da pertutto e non sono alla ricerca di accarezze. Se solo potessi coccolarli pacificamente.",
 	},
 }
